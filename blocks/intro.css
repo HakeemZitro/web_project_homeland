@@ -1,9 +1,12 @@
 .intro {
   margin-top: 92px;
-  max-width: 830px;
+  margin-left: clamp(20px, -492px + 50vw, 148px);
+  max-width: 984px;
+  align-self: start;
 }
 
 .intro__title {
+  max-width: 830px;
   font-size: 54px;
   font-weight: 900;
   line-height: 58px;
@@ -34,6 +37,7 @@
   .intro {
     margin: 90px 24px 0;
     max-width: 720px;
+    align-self: center;
   }
 
   .intro__title {
