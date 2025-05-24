@@ -16,6 +16,7 @@
   font-weight: 900;
   line-height: 76px;
   align-self: end;
+  text-transform: capitalize;
 }
 
 .place__title_longword {
@@ -77,7 +78,7 @@
 
 .place__button {
   max-width: 289px;
-  max-height: max-content;
+  height: max-content;
   grid-area: button;
   padding: 13px 20px;
   border: none;
