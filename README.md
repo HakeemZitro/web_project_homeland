@@ -1,4 +1,4 @@
-# Proyecto 5: TripleTen Art Gallery
+# Proyecto 6: TripleTen Art Gallery Finished
 
 Página Web para la galería de arte de TripleTen, donde el equipo que forma parte de TripleTen comparte una obra sobre su tierra natal. La página utiliza HTML y CSS.
 
@@ -7,8 +7,11 @@ Página Web para la galería de arte de TripleTen, donde el equipo que forma par
 
 - HTML5 semántico
 - Flexbox
+- Grid
 - Posicionamiento
 - Metodología BEM
+- Gradientes y Sombras
+- Pseudo-clases y Pseudo-elementos
 - Diseño Responsive
 
 
